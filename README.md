@@ -1,6 +1,6 @@
 # Avasyu - Smart Contact Manager
 
-Avasyu is a full-stack web application built on Spring Boot, designed to manage contacts efficiently with various features including social login, cloud-based image storage, email integration, and more.
+Avasyu is a full-stack web application built on Spring Boot, designed to manage contacts efficiently with various features including social login, cloud-based image storage, email integration, and more
 
 ## Features
 
